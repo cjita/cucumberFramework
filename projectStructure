@@ -1,0 +1,17 @@
+Project Structure
+........................
+
+Package
+.......................
+
+1.Page Object
+2.Step Definition
+3.Utilities
+
+Folder
+1. Feature file
+2. Target(Reports)
+
+url: https://admin-demo.nopcommerce.com/login
+
+https://www.youtube.com/watch?v=Mq6DOreyvM4&list=PLnNg6KqJ3HGgMujXr8kLrEol7xmynUwHk
